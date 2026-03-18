@@ -1,3 +1,4 @@
 credentials.json
 *.json
 .env
+*.swp
